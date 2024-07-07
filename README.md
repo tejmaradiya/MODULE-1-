@@ -1,2 +1,2 @@
-# MODULE-1-
+# MODULE-1
 WD-HTML
